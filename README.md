@@ -124,10 +124,3 @@ GitHub: [https://github.com/karthikpatel01](https://github.com/karthikpatel01)
 
 ---
 
-⭐ If you like this project, don’t forget to **star the repository**!
-
-```
-
----
-
-
